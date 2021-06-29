@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "\n    positive\n",
+    "T_STAT": "\n    1.820\n",
+    "P_VALUE": "\n    La p-value de l'age médian n'est pas significante statistiquement ni à 95% ni à 90%.\n",
+    "INCREASE": "\n    En gardant tous les autres paramètres constants,\n    chaque augmentation d'un pourcent de la proportion de famille avec un couple marié\n    réduit de 2115 le nombre d'incidents\n",
+    "LIMITATIONS": "\n    Dans la vie réelle, les choses ne sont pas forcément correllées de manière linéaire.\n    De plus, notre nombre de paramètres est élevé et notre nombre d'observations faible peut conduire à de l'overfitting.\n"
+}

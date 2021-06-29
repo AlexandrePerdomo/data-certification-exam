@@ -1,0 +1,16 @@
+*.csv
+*.sqlite
+.ipynb_checkpoints
+__pycache__
+.DS_Store
+.vscode
+.pytest_cache/
+*.egg-info/
+*.egg
+*_big.pickle
+*_big
+paintings
+data_painting_solution.pickle
+image_denoising.zip
+data_lyrics_solution.pickle
+lyrics_detector.zip
